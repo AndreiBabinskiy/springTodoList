@@ -1,6 +1,6 @@
 # springTodoList
 List of tasks (todo-list) with the ability to view the list of tasks, add new tasks, edit and delete existing tasks.
-<h2>Task: Create a (todo-list) project using Hibernate, MySQL, Docker, Spring, p6spy, Thymeleaf, HTML/CSS /h2>
+<h4>Task: Create a (todo-list) project using Hibernate, MySQL, Docker, Spring, p6spy, Thymeleaf, HTML-CSS </h4>
 <h2>Technology Stack:</h2>
 <ol>
   <li>Java: Version 18.0.1 Oracle OpenJDK</li>
@@ -12,6 +12,6 @@ List of tasks (todo-list) with the ability to view the list of tasks, add new ta
 </ol>
 <h2>My Result</h2>
 <ol>
-  <li>Path -> src/main/webapp/resultMyProject</li>
+  Path -> src/main/webapp/resultMyProject
 </ol>
 
