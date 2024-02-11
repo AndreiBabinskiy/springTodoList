@@ -1,6 +1,6 @@
 # springTodoList
 List of tasks (todo-list) with the ability to view the list of tasks, add new tasks, edit and delete existing tasks.
-<h4>Task: Create a (todo-list) project using:
+<h2>Task: Create a (todo-list) project using:
   <ol>
     <li>Spring</li>
     <li>Thymeleaf</li>
