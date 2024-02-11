@@ -25,6 +25,6 @@ List of tasks (todo-list) with the ability to view the list of tasks, add new ta
 </ol>
 <h2>My Result</h2>
 <ol>
-path  in the project -> src/main/webapp/resultMyProject
+path  in the project -> src/main/webapp/resultMyProject/result.PNG
 </ol>
 
